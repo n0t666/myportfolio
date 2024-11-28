@@ -1,0 +1,83 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "PR_kwDOFOIb7s5o1N4A",
+      "title": "Presente! Leandro Pereira",
+      "url": "https://github.com/dianasssantos/MDS-FP-GitKraken-presencas/pull/120",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61012236?v=4",
+        "url": "https://github.com/dianasssantos",
+        "login": "dianasssantos"
+      },
+      "createdAt": "2024-03-06T12:08:07Z",
+      "number": 120,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "MDS-FP-GitKraken-presencas",
+        "url": "https://github.com/dianasssantos/MDS-FP-GitKraken-presencas",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/61012236?v=4",
+          "login": "dianasssantos",
+          "url": "https://github.com/dianasssantos"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJjKvoc5Sq1FW",
+      "title": "Merge pull request #1 from n0t666/tests",
+      "url": "https://github.com/n0t666/DarkTrail_WEBSITE/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99896082?u=8c2a4fae2a5f06ffbd2b20dd44a538009578192a&v=4",
+        "url": "https://github.com/n0t666",
+        "login": "n0t666"
+      },
+      "createdAt": "2023-06-10T02:11:49Z",
+      "number": 2,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "DarkTrail_WEBSITE",
+        "url": "https://github.com/n0t666/DarkTrail_WEBSITE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99896082?u=8c2a4fae2a5f06ffbd2b20dd44a538009578192a&v=4",
+          "login": "n0t666",
+          "url": "https://github.com/n0t666"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJjKvoc5Sqy-k",
+      "title": "Tests",
+      "url": "https://github.com/n0t666/DarkTrail_WEBSITE/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99896082?u=8c2a4fae2a5f06ffbd2b20dd44a538009578192a&v=4",
+        "url": "https://github.com/n0t666",
+        "login": "n0t666"
+      },
+      "createdAt": "2023-06-10T01:41:39Z",
+      "number": 1,
+      "changedFiles": 9,
+      "additions": 463,
+      "deletions": 50,
+      "baseRepository": {
+        "name": "DarkTrail_WEBSITE",
+        "url": "https://github.com/n0t666/DarkTrail_WEBSITE",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99896082?u=8c2a4fae2a5f06ffbd2b20dd44a538009578192a&v=4",
+          "login": "n0t666",
+          "url": "https://github.com/n0t666"
+        }
+      }
+    }
+  ],
+  "merged": 3,
+  "open": 0,
+  "totalCount": 3
+}
